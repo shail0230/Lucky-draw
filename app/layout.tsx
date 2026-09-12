@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Benne | The Lucky Draw",
-  description: "A little luck, a delicious surprise. Enter the Benne lucky draw and scratch to reveal your restaurant offer.",
+  title: "Madras Pesu | The Lucky Draw",
+  description: "A little luck, a delicious surprise. Enter the Madras Pesu lucky draw and scratch to reveal your restaurant offer.",
   other: {
     "codex-preview": "development",
   },
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
+    icon: "/madras-pesu-logo.jpeg",
+    shortcut: "/madras-pesu-logo.jpeg",
   },
 };
 
